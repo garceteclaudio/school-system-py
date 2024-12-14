@@ -1,3 +1,3 @@
-# Python proyect resume
+# Python proyect
 
-![Screenshot](data_structure_py.png)
+![Screenshot](notes/data_structure_py.png)
