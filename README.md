@@ -1,3 +1,3 @@
 # Python proyect
 
-![Screenshot](notes/data_structure_py.png)
+![Screenshot](images/data_structure_py.png)
