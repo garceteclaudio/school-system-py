@@ -16,6 +16,3 @@ class Student(Person):
 
     def __str__(self):
         return super().__str__() + f", Major: {self.major}, Average Grade: {self.average_grade}"
-
-    def study(self):
-        print(f"{self.first_name} is studying {self.major}.")
